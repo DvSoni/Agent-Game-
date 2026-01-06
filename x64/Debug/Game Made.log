@@ -1,0 +1,3 @@
+﻿  Agent.cpp
+D:\Game Made C++\Game Made\Agent.cpp(61,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game Made.vcxproj -> D:\Game Made C++\Game Made\x64\Debug\Game Made.exe
