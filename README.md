@@ -35,7 +35,5 @@ The game checks the user’s answer and provides instant feedback.
 - The program checks whether the answer is **correct or incorrect**
 
 ---
-
-
-```bash
-g++ agent_math_game.cpp -o mathgame
+run the GAme Made cpp file 
+```
